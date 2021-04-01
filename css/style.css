@@ -1,0 +1,17 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.nav {
+  position: relative;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+}
+
+.nav-item {
+  padding-left: 15px;
+  margin-bottom: 0;
+  list-style: none;
+}
